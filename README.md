@@ -56,18 +56,28 @@ Solution: Go to \<HTrOP source directory>/common/hds.proto and follow the instru
 ## Publications
 
 * H. Riebler, G. Vaz, T. Kenter, C. Plessl. __Automated Code Acceleration Targeting Heterogeneous OpenCL Devices.__ In *Proc. ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), ACM*, 2018.
-* H. Riebler, G. Vaz, T. Kenter, C. Plessl. __Transparent Acceleration for Heterogeneous Platforms with Compilation to OpenCL.__ In *ACM Transactions on Architecture and Code Optimization (TACO) Volume X Issue X [Accepted]*, 2019.
+* H. Riebler, G. Vaz, T. Kenter, C. Plessl. __Transparent Acceleration for Heterogeneous Platforms with Compilation to OpenCL.__ In *ACM Transactions on Architecture and Code Optimization (TACO) Volume 16 Issue April, 2019.
 
 Please cite
-
+       
     @article{riebler19transparent,
-      title={Transparent Acceleration for Heterogeneous Platforms with Compilation to OpenCL},
-      author={Riebler, Heinrich and Vaz, Gavin and Kenter, Tobias and Plessl, Christian},
-      journal={ACM Transactions on Architecture and Code Optimization (TACO)},
-      volume={X},
-      number={Y},
-      pages={Z},
-      year={2019},
-      publisher={ACM}
-    }
+     author = {Riebler, Heinrich and Vaz, Gavin and Kenter, Tobias and Plessl, Christian},
+     title = {Transparent Acceleration for Heterogeneous Platforms With Compilation to OpenCL},
+     journal = {ACM Trans. Archit. Code Optim.},
+     issue_date = {April 2019},
+     volume = {16},
+     number = {2},
+     month = apr,
+     year = {2019},
+     issn = {1544-3566},
+     pages = {14:1--14:26},
+     articleno = {14},
+     numpages = {26},
+     url = {http://doi.acm.org/10.1145/3319423},
+     doi = {10.1145/3319423},
+     acmid = {3319423},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {OpenCL, Transparent acceleration, multi-accelerator, runtime system},
+    } 
 
